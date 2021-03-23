@@ -28,6 +28,7 @@ https://www.freenewsapi.com/l/japanese
 
 
 
+```json
 
 
 [
@@ -2596,6 +2597,7 @@ https://www.freenewsapi.com/l/japanese
 
 
 
+```
 
 
 
