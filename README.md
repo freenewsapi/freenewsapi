@@ -1,4 +1,7 @@
-### Hi there 👋
+### Free News API 👋
+### No access key needed
+### updated every 10 seconds
+### 1 million requests Free everyday
 
 
 https://www.freenewsapi.com/k/trump   
